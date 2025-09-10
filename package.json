@@ -17,7 +17,7 @@
     "react-grid-layout": "^0.18.3",
     "react-hover": "^1.4.0",
     "react-resize-detector": "^4.2.3",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
